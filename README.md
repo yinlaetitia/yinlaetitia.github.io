@@ -1,3 +1,3 @@
-# yinlaetitia.github.io
+# Personal Website
 
-Personal Website: https://yinlaetitia.github.io/
+Website Link: https://yinlaetitia.github.io/
