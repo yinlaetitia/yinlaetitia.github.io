@@ -2059,7 +2059,7 @@ div.mc-image {
     height:100%;
     left:1px;
     top:0;
-    border-right:1px solid #0d1349;
+    border-right:1px solid #3c5cb3;
     z-index:-1;
 } 
 
@@ -2071,7 +2071,7 @@ div.mc-image {
     height:100px;
     left:1px;
     bottom:-105px;
-    border-right:1px dashed #0d1349;
+    border-right:1px dashed #3c5cb3;
     z-index:-1;
 } 
 
