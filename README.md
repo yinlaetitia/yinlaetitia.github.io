@@ -6,10 +6,7 @@ Website Link: https://yinlaetitia.github.io/
 To do:
 
 Website：
-- 改封面字 x3
 - (改 skill 背景图)
-- 改 awards
-- 改 contact us
 
 Project1:
 - Presentation 稿子
