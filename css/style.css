@@ -1167,7 +1167,7 @@ background-color: #11D25D;
 -moz-transition: all .3s;
 transition: all .3s;
 }
-#aboutUs {
+#aboutMe {
     padding: 60px 0;
     background: #fff;
 }
@@ -2332,7 +2332,7 @@ div.mc-image {
 --------------------------- */
 @media (min-width: 768px) and (max-width: 1200px) {
 
-.aboutUs-container {
+.aboutMe-container {
 background-repeat: no-repeat;
 background-position: right;
 background-size: auto 59%;
@@ -2345,7 +2345,7 @@ float: right;
 width: auto; 
 text-align: center;
 }
-.aboutUs-container{
+.aboutMe-container{
 	background-image:none;
 }
 p{
@@ -2370,10 +2370,10 @@ margin: 0 0 9px 0;
 .inner_section {
 padding: 20px 0 20px;
 }
-#aboutUs img{
+#aboutMe img{
 margin-bottom:20px;
 }
-#aboutUs h3{
+#aboutMe h3{
 font-size:26px;
 line-height:22px;
 }
